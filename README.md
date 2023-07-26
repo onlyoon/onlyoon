@@ -1,9 +1,7 @@
 <div align=center>
-  
 
-
-# About
-![https://github.com/soyeon207/soyeon207/blob/main/chat.svg](https://github.com/soyeon207/soyeon207/blob/main/chat.svg)
+# Hi
+![https://github.com/onlyoon/park-sangyoon/blob/main/chat.svg](https://github.com/onlyoon/park-sangyoon/blob/main/chat.svg)
 
 # Studying
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
