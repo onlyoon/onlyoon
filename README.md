@@ -13,8 +13,8 @@
 
 # 
 
-### baekjoon >> [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkyoon97)](https://solved.ac/parkyoon97)
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkyoon97)](https://solved.ac/parkyoon97)
 
-### github views >> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonlyoon&count_bg=%23317773&title_bg=%23E2D1F9&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonlyoon&count_bg=%23317773&title_bg=%23E2D1F9&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
