@@ -5,11 +5,6 @@
 
 # Stacks
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
-![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=363636)
-
-
-![solidity](https://img.shields.io/badge/solidity-363636.svg?&style=for-the-badge&logo=solidity&logoColor=white)
 
 # 
 
