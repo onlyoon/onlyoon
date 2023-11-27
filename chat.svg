@@ -253,7 +253,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="290" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">프론트엔드 개발자를 희망하는</text>
-    <text x="15" y="50">윤 (박상윤) 입니다.</text>
+    <text x="15" y="50">YOON (박상윤) 입니다.</text>
   </g>
 
   <!-- typing 3 -->
@@ -277,8 +277,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">자바스크립트나 리엑트를 주로 사용하며</text>
-    <text x="15" y="50">블록체인에도 관심이 많습니다 :)</text>
+    <text x="15" y="27">자바스크립트를 주로 사용하며</text>
+    <text x="15" y="50">웹 3D에 관심이 많습니다. :)</text>
   </g>
 
   <!-- typing 4 -->
