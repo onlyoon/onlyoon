@@ -12,21 +12,21 @@
 <div align="center">
   <!-- Frontend Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"/>
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgreSQL logo"/>
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"/>
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo"/>
-  <img width="12" />
+  <img width="16" />
 
 
 
